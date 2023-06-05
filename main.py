@@ -1,1 +1,1 @@
-print("Hello from local list")
+print("Hello from local list and thx for comment")
